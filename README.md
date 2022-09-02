@@ -1,20 +1,20 @@
 ### Hi there 👋
+I am <a href="https://aideen.org">aideen.org</a>, CEO and Founder of <a href="https://codelita.com">codelita.com</a>.
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eyedean) -->
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eyedean)
 
-
-
-<h1 align="center">&#9776; Stats:</h1>
+<!-- <h1 align="center">Stats:</h1> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyedean&theme=radical" width="90%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eyedean&theme=radical" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyedean&theme=radical" width="45%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eyedean&theme=radical&hide_border=true" width="90%" />
