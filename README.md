@@ -6,10 +6,11 @@ I am <a href="https://aideen.org">aideen.org</a>, CEO and Founder of <a href="ht
 
 
 <!-- <h1 align="center">Stats:</h1> -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eyedean&theme=radical&hide_border=true" width="90%" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyedean&theme=radical" width="90%" />
